@@ -1,0 +1,19 @@
+{
+  "name": "blockersaas",
+  "version": "1.0.0",
+  "description": "A website blocker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rickey07/websiteblocker.git"
+  },
+  "author": "Prabadhya Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rickey07/websiteblocker/issues"
+  },
+  "homepage": "https://github.com/Rickey07/websiteblocker#readme"
+}
